@@ -127,7 +127,7 @@ const Nav = styled.nav`
 
 const Logo = styled.a`
   padding: 0;
-  width: 80px;
+  width: 250px;
   margin-top: 4px;
   max-height: 70px;
   font-size: 0;
@@ -257,5 +257,4 @@ const SignOut = styled.div`
     }
   }
 `;
-
 export default Header;

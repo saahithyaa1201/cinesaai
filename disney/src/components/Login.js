@@ -1,22 +1,26 @@
 import styled from "styled-components";
+import Header from "./Header"; // Adjust the path to where your Header component is located
 
-const Login = () => {
+const Login = (props) => {
   return (
-    <Container>
-      <Content>
-        <CTA>
-          <CTALogoOne src="/images/hello2.png" alt="Logo One" />
-          <SignUp>GET ALL THERE</SignUp>
-          <Description>
-            Get Premier Access to Raya and the Last Dragon for an additional fee
-            with a Disney+ subscription. As of 03/26/21, the price of Disney+
-            and The Disney Bundle will increase by $1.
-          </Description>
-          <CTALogoTwo src="/images/hello3.png" alt="Logo Two" />
-        </CTA>
-        <BgImage />
-      </Content>
-    </Container>
+    <>
+      <Header /> {/* Add the Header component here */}
+      <Container>
+        <Content>
+          <CTA>
+            <CTALogoOne src="/images/hello2.png" alt="Logo One" />
+            <SignUp>GET ALL THERE</SignUp>
+            <Description>
+              Get Premier Access to Raya and the Last Dragon for an additional fee
+              with a Disney+ subscription. As of 03/26/21, the price of Disney+
+              and The Disney Bundle will increase by $1.
+            </Description>
+            <CTALogoTwo src="/images/hello3.png" alt="Logo Two" />
+          </CTA>
+          <BgImage />
+        </Content>
+      </Container>
+    </>
   );
 };
 

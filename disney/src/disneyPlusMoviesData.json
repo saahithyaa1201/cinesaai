@@ -1,148 +1,165 @@
 {
     "movies": {
-        "1" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/49B92C046117E89BC9243A68EE277A3B30D551D4599F23C10BF0B8C1E90AEFB6/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87F1DCF36049558159913ADFD18A800DE1121771540033EC3A7651B8FE154CEB/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
-            "subTitle": "2015 • 1h 35m • Coming of Age, Family, Animation",
-            "title": "Inside Out",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C647DF3FFBFA343CFEA84AC715148F25F9E86F398B408010CC403E7654FB908/scale?width=1440&aspectRatio=1.78",
-            "type": "recommend"
+        "1": {
+            "backgroundImg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/06/inside-out-2-pixar.jpg",
+            "cardImg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/06/inside-out-2-pixar.jpg",
+            "description": "In a vibrant world of emotions, Riley's mind faces new challenges as Anxiety and other teen emotions shake up headquarters. Joy must navigate this chaotic transition to help Riley find balance.",
+            "subTitle": "2024 • 1h 36m • Coming of Age, Family, Animation",
+            "title": "Inside Out 2",
+            "titleImg": "https://images.moviesanywhere.com/3d7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e/3d7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e.jpg?width=1440",
+            "type": "recommend",
+            "googleLink": "https://www.google.com/search?q=Inside+Out+2+movie"
         },
-        "2" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4E9E81584305009D6385F6178D4B6930E97CD6EC4A3B53C818400DEF778FFA9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B983FF22BA64B6E19E0D3267280819B26758CFB765E8BED1099D11E320612953/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "Garfield is adopted by a greedy Lord with nefarious plans to open up his estate as a hunting ground.",
-            "subTitle": "2006 • 1h 19m • Family, Comedy, Kids",
-            "title": "A tail of two kitties",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/50B933E83609BEEFEDFA177A6D96DBFA7804C14F70A0B5AB314E892E65498ACF/scale?width=1440&aspectRatio=1.78",
-            "type": "new"
+        "2": {
+            "backgroundImg": "https://i.ytimg.com/vi/iLoWJtZ-zcw/hqdefault.jpg",
+            "cardImg": "https://i.ytimg.com/vi/iLoWJtZ-zcw/hqdefault.jpg",
+            "description": "Explore Mufasa’s journey from orphaned cub to revered king of the Pride Lands, as told by Rafiki, revealing the trials and triumphs that shaped his legacy.",
+            "subTitle": "2024 • 1h 59m • Family, Adventure, Animation",
+            "title": "Mufasa: The Lion King",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_mufasathelionking_1962_08c6f7fe.jpeg?width=1440",
+            "type": "recommend",
+            "googleLink": "https://www.google.com/search?q=Mufasa+The+Lion+King+movie"
         },
-        "3" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4F39B7E16726ECF419DD7C49E011DD95099AA20A962B0B10AA1881A70661CE45/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/706C68FF1CEA5A9C2AE0608892C2DF79E4AC1F0DDB4BFF7FE6DAFC36DAFC0286/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "A Chinese mom who’s sad when her grown son leaves home gets another chance at motherhood when one of her dumplings springs to life. But she finds that nothing stays cute and small forever.",
-            "subTitle": "2018 • 7m • Family, Fantasy, Kids, Animation",
-            "title": "Bao",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7AEE1F05D10FC37C873176AAA26F777FC1B71E7A6563F36C6B1B497CAB1CEC2/scale?width=1440&aspectRatio=1.78",
-            "type": "recommend"
+        "3": {
+            "backgroundImg": "https://oceanovgames.com/wp-content/uploads/2019/10/The-Amazing-Spider-Man-2-Game-PC-Download.jpg",
+            "cardImg": "hhttps://oceanovgames.com/wp-content/uploads/2019/10/The-Amazing-Spider-Man-2-Game-PC-Download.jpg",
+            "description": "Miles Morales swings across the Multiverse, teaming up with Gwen Stacy and a new crew of Spider-People to face a powerful villain threatening every reality.",
+            "subTitle": "2023 • 2h 20m • Action, Adventure, Animation",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "titleImg": "https://www.sonypictures.com/sites/default/files/2023-05/Spider-Man_Across_the_Spider-Verse.jpg?width=1440",
+            "type": "recommend",
+            "googleLink": "https://www.google.com/search?q=Spider-Man+Across+the+Spider-Verse+movie"
         },
-        "4" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA1548A6B82C9991B1D38DF251A388FEA2483904510FBC73E150F67F7BDE38C0/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0ECD36DD35658155915685271440833C29ED87E788CF8AE111AA6BCA6B939C37/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "When the kingdom's most wanted bandit is taken hostage by Rapunzel — a teen with 70 feet of golden hair who's looking to escape the tower where she's been locked away for years — the unlikely duo sets off on a hair-raising escapade.",
-            "subTitle": "2010 • 1h 40m • Family, Fantasy, Animation, Action-Adventure, Musical",
-            "title": "Tangled",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F70235E3463A6F246EB462ED5379F9D41D6318E80098BD40900E7AFC1C7D932D/scale?width=1440&aspectRatio=1.78",
-            "type": "trending"
+        "4": {
+            "backgroundImg": "https://images.genius.com/bffc03728a880d8d9839ca7a625582ab.1000x1000x1.jpg",
+            "cardImg": "https://images.genius.com/bffc03728a880d8d9839ca7a625582ab.1000x1000x1.jpg",
+            "description": "In a city where fire, water, land, and air residents live together, a fiery young woman and a go-with-the-flow guy discover something elemental: how much they have in common.",
+            "subTitle": "2023 • 1h 41m • Family, Fantasy, Animation",
+            "title": "Elemental",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_elemental_549_7d393b8b.jpeg?width=1440",
+            "type": "recommend",
+            "googleLink": "https://www.google.com/search?q=Elemental+movie"
         },
-        "5" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56EEBB17CC25C9FE16E334C34EF96BF7D91EC9BA3B438F88FB24E1C2AE785E03/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E486A02FA7B60669E77958D4FAE567AA5C9C57344006E1D1ADFC080719545166/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
-            "description": "Jamie Foxx leads an all-star cast in this hilarious, heart-filled adventure. Pixar’s 'Soul' introduces Joe, who lands the gig of his life at the best jazz club in town. But one misstep lands Joe in a fantastical place: The Great Before. There, he teams up with soul 22 (Tina Fey), and together they find the answers to some of life’s biggest questions.",
-            "subTitle": "2020 • 1h 49m • Family, Comedy, Fantasy, Animation, Music",
-            "title": "Soul",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E837DDE901CD036DD87A00F2D63E2F2458FAA798E62BE91F973AECCEA313A67E/scale?width=1440&aspectRatio=1.78",
-            "type": "original"
+        "5": {
+            "backgroundImg": "https://www.filmofilia.com/wp-content/uploads/2011/09/Puss-in-Boots_wallpaper-w7.jpg",
+            "cardImg": "https://www.filmofilia.com/wp-content/uploads/2011/09/Puss-in-Boots_wallpaper-w7.jpg",
+            "description": "Puss in Boots discovers his passion for adventure has taken a toll. With one life left, he embarks on an epic quest to find the mythical Last Wish and restore his nine lives.",
+            "subTitle": "2022 • 1h 42m • Family, Adventure, Animation",
+            "title": "Puss in Boots: The Last Wish",
+            "titleImg": "https://images.moviesanywhere.com/8e7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e/8e7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e.jpg?width=1440",
+            "type": "trending",
+            "googleLink": "https://www.google.com/search?q=Puss+in+Boots+The+Last+Wish+movie"
         },
-        "6" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AAC4808815AE5721A6AAB372DD14B8CE2E7E9EFF3A27942EF2B6B45EBF4E65CB/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/501783804F435A386DBC4736F529A8EF664B1817CCB0B552E52D825B85B0A97B/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "Moana sets sail on a daring mission to save her people. Along the way, she meets the mighty demigod Maui–together they cross the ocean on a fun-filled, action-packed voyage from Walt Disney Animation Studios.",
-            "subTitle": "2016 • 1h 47m • Family, Fantasy, Animation, Action-Adventure, Musical",
-            "title": "Moana",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9562874BAB22B22A698368819B9EBF30FEB0291543552EB2416A5A61A73F63F4/scale?width=1440&aspectRatio=1.78",
-            "type": "trending"
+        "6": {
+            "backgroundImg": "https://preview.redd.it/if-they-redesign-mario-and-luigi-they-should-make-them-look-v0-esza5ik3q1bc1.jpeg?auto=webp&s=fc72a3f9566dc43767a3775ad9e05aa9db6b5b36",
+            "cardImg": "https://preview.redd.it/if-they-redesign-mario-and-luigi-they-should-make-them-look-v0-esza5ik3q1bc1.jpeg?auto=webp&s=fc72a3f9566dc43767a3775ad9e05aa9db6b5b36",
+            "description": "Mario and Luigi, plumbers from Brooklyn, are transported to a magical world where they team up with Princess Peach to battle the evil Bowser and save the Mushroom Kingdom.",
+            "subTitle": "2023 • 1h 32m • Family, Adventure, Animation",
+            "title": "The Super Mario Bros. Movie",
+            "titleImg": "https://www.warnerbros.com/sites/default/files/2023-04/The-Super-Mario-Bros-Movie.jpg?width=1440",
+            "type": "trending",
+            "googleLink": "https://www.google.com/search?q=The+Super+Mario+Bros+Movie"
         },
-        "7" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B409C2A425D58C32D822EB633C7CAE3DC910DC2FC62D2B1807A0BB092C531E9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0A883EAB54DDDC924018D08CF4555EE72B3E9A8C214BDADF29CB82B5E2275D7/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "While Helen is called on to lead a campaign to bring back the Supers, Bob navigates the day-to-day heroics of “normal” life at home with Violet, Dash and Jack-Jack, whose superpowers are about to be discovered. Their mission is derailed, however, when a new villain emerges with a brilliant and dangerous plot that threatens everything. But with Frozone by their side, the Parrs can take on anything.",
-            "subTitle": "2018 • 1h 58m • Science Fiction, Family, Animation, Action-Adventure",
-            "title": "Incredibles 2",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2041CE26663867FC4EF20377B8625BD629E619452E23BCDB1AB259DD475C2EA1/scale?width=1440&aspectRatio=1.78",
-            "type": "recommend"
+        "7": {
+            "backgroundImg": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2023/10/wish_ver6_xlg.jpg",
+            "cardImg": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2023/10/wish_ver6_xlg.jpg",
+            "description": "Asha, a sharp-witted idealist, makes a wish so powerful that it’s answered by a cosmic force—a little ball of boundless energy called Star. Together, they face a formidable foe to save her community.",
+            "subTitle": "2023 • 1h 35m • Family, Fantasy, Animation",
+            "title": "Wish",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_wish_300_5d1f4cd9.jpeg?width=1440",
+            "type": "trending",
+            "googleLink": "https://www.google.com/search?q=Wish+movie"
         },
-        "8" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D53D1F5D357587A8D09067AB09FFC7096F837CBAAE02BDC3C0E75814471A1E36/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CC08686E87BDB2D83A46C9608CB2F43018381A82608C380649351A00ED0D2919/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
-            "description": "ASSEMBLED is an immersive series of documentary-style specials examining the creation of Marvel Studios’ thrilling new shows and theatrical releases.",
-            "subTitle": "2021 • 1 Season • Docuseries, Anthology",
-            "title": "Assembled",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/37D80C5D1AB0BA65C63588311EC60A07342F60F91D402C28B8E1137AF6A30549/scale?width=1440&aspectRatio=1.78",
-            "type": "original"
+        "8": {
+            "backgroundImg": "https://imagenes.20minutos.es/uploads/imagenes/2024/03/07/cartel-de-kung-fu-panda-4-2024.jpeg",
+            "cardImg": "https://imagenes.20minutos.es/uploads/imagenes/2024/03/07/cartel-de-kung-fu-panda-4-2024.jpeg",
+            "description": "Po must train a new Dragon Warrior when he’s called to face a sorceress who plans to resurrect every villain he’s ever defeated, threatening the Valley of Peace.",
+            "subTitle": "2024 • 1h 34m • Family, Action, Animation",
+            "title": "Kung Fu Panda 4",
+            "titleImg": "https://images.moviesanywhere.com/9e7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e/9e7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e.jpg?width=1440",
+            "type": "trending",
+            "googleLink": "https://www.google.com/search?q=Kung+Fu+Panda+4+movie"
         },
-        "9" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A509165105A09F9F533E2008B143BCF38D6A5859D0EBB40CCA388772005CD94/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A13BEC78ACF76FC91A94A1595A62A42CC26DFC6259332C74E061ADA379024E5C/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
-            "description": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she’s doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.",
-            "subTitle": "2020 • 6m • Family, Animation",
-            "title": "Burrow",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DD8BBA864E290FBC03A244A488FFC8DC8365FBF2F95A122B1D57BF3772D717FD/scale?width=1440&aspectRatio=1.78",
-            "type": "original"
+        "9": {
+            "backgroundImg": "https://th-i.thgim.com/public/entertainment/movies/oyuqjp/article67415823.ece/alternates/LANDSCAPE_1200/Leo%20Trailer.png",
+            "cardImg": "https://th-i.thgim.com/public/entertainment/movies/oyuqjp/article67415823.ece/alternates/LANDSCAPE_1200/Leo%20Trailer.png",
+            "description": "Leo, a 74-year-old lizard, and his turtle friend decide to escape from their classroom terrarium in Florida, facing a world of challenges to live out their dreams before it’s too late.",
+            "subTitle": "2023 • 1h 26m • Family, Comedy, Animation",
+            "title": "Leo",
+            "titleImg": "https://www.sonypictures.com/sites/default/files/2023-06/Bad-Boys-Ride-or-Die.jpg?width=1440",
+            "type": "original",
+            "googleLink": "https://www.google.com/search?q=Leo+movie"
         },
-        "10" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/223DAE104BE1175F374C4AACAC0EB5B8B0DB9C49839AA2E10085533DDFE07A8E/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "This animated comedy focuses on the eponymous family in the town of Springfield. The head of the Simpson family, Homer, is not a typical family man. A nuclear-plant employee, he does his best to lead his family but often finds that they are leading him. The family includes loving, blue-haired matriarch Marge, troublemaking son Bart, overachieving daughter Lisa and baby Maggie.",
-            "subTitle": "1989 - 2019 • 31 Seasons • Comedy, Animation",
-            "title": "The Simpsons",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/47A6FB38D95B3A5EF5583C9EED0B698ED2992CBA4AC7222DD3269DC92DFA03A6/scale?width=1440&aspectRatio=1.78",
-            "type": "trending"
+        "10": {
+            "backgroundImg": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/migration/images/regions/us/onesheet.jpg",
+            "cardImg": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/migration/images/regions/us/onesheet.jpg",
+            "description": "A family of ducks ventures out of their safe New England pond for an adventurous trip to Jamaica, learning to spread their wings and embrace the unknown.",
+            "subTitle": "2023 • 1h 23m • Family, Adventure, Animation",
+            "title": "Migration",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_migration_2196_4b3b9b1b.jpeg?width=1440",
+            "type": "orginal",
+            "googleLink": "https://www.google.com/search?q=Migration+movie"
         },
-        "11" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6CDB6C0EB2D77EB19BCADA31F85066E001A1F61FA68F4AC3356A73FE076477F/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F8D1A6FD00ED479CC5E2E5C3E85F10EB05550748BD3C0FE76756614071968541/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
-            "description": "Marvel Studios LEGENDS traces Wanda Maximoff’s evolution from an adversary of The Avengers to a powerful ally, and highlights one special relationship destined to shape her future in unexpected ways…",
-            "subTitle": "2021 • 1 Season • Science Fiction, Fantasy, Action-Adventure",
-            "title": "Legends",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DDFF0FDF457E092EE53149CE7DB5BD14CB97E27B92D2D087E7C687B4E3073DE2/scale?width=1440&aspectRatio=1.78",
-            "type": "original"
+        "11": {
+            "backgroundImg": "https://images5.alphacoders.com/104/1049800.jpg",
+            "cardImg": "https://images5.alphacoders.com/104/1049800.jpg",
+            "description": "Teenager Ashitaka seeks to cure a curse from a demon, journeying through a mystical world where humans clash with nature’s gods, seeking peace amid conflict.",
+            "subTitle": "1997 • 2h 14m • Fantasy, Adventure, Animation",
+            "title": "Princess Mononoke",
+            "titleImg": "https://images.moviesanywhere.com/ae7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e/ae7c6e6b1e7e7c6e7d7e7c6e7d7e7c6e.jpg?width=1440",
+            "type": "orginal",
+            "googleLink": "https://www.google.com/search?q=Princess+Mononoke+movie"
         },
-        "12" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09A0617D43282F1A4FA1A97DF6159B4263A8DEB9679A007B61D5E5D6E5D0A2DD/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E0501AFBAFCA1ABB5D31DBA7D1A913B2A35D70FD3DFD804939B71901577161D/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "Watch with Premier Access at the same time it's in open theaters and before it's available to all Disney+ subscribers on June 4, 2021.",
-            "subTitle": "2021 • 1h 52m • Family, Fantasy, Animation, Action-Adventure",
-            "title": "Raya",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E7D8EFFDD30B2A0E205DDD9929207439B21E7595709769F2A23C50457664FFB2/scale?width=1440&aspectRatio=1.78",
-            "type": "new"
+        "12": {
+            "backgroundImg": "https://static01.nyt.com/images/2023/08/02/multimedia/02teenage-mutant-review-ghkw/02teenage-mutant-review-ghkw-videoSixteenByNineJumbo1600.jpg",
+            "cardImg": "https://static01.nyt.com/images/2023/08/02/multimedia/02teenage-mutant-review-ghkw/02teenage-mutant-review-ghkw-videoSixteenByNineJumbo1600.jpg",
+            "description": "The Turtle brothers emerge from the sewers to be accepted as heroes in New York City, battling a mutant crime syndicate with the help of their new friend April O’Neil.",
+            "subTitle": "2023 • 1h 39m • Action, Comedy, Animation",
+            "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+            "titleImg": "https://www.warnerbros.com/sites/default/files/2023-05/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem.jpg?width=1440",
+            "type": "orginal",
+            "googleLink": "https://www.google.com/search?q=Teenage+Mutant+Ninja+Turtles+Mutant+Mayhem+movie",
+
+            "13": {
+            "backgroundImg": "https://www.cinetrafic.fr/actu/wp-content/uploads/2023/10/zootopie-2.png",
+            "cardImg": "https://www.cinetrafic.fr/actu/wp-content/uploads/2023/10/zootopie-2.png",
+            "description": "Judy Hopps and Nick Wilde tackle a new case in Zootopia, chasing a mysterious reptile causing chaos, while navigating their partnership and the city’s diverse neighborhoods.",
+            "subTitle": "2025 • 1h 45m • Family, Comedy, Animation",
+            "title": "Zootopia 2",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_zootopia2_196_7e5b9d8c.jpeg?width=1440",
+            "type": "disneyplus",
+            "googleLink": "https://www.google.com/search?q=Zootopia+2+movie"
         },
-        "13" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09DAD6A5DAECB6BA9E329FFA896B18978FE4AD5540C070D7973EE53357DD4D24/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/01666FAA085FF29B709DB13975E563E5E047DAAFF7D8F331201CB73F3C30027E/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "When Bob Parr visits designer Edna Mode for help with his high-energy toddler, she pulls an all-nighter designing a supersuit to harness Jack-Jack’s seemingly limitless powers.",
-            "subTitle": "2018 • 7m • Family, Comedy, Animation",
-            "title": "Auntie EDNA",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A31BE6502DC7A3A01DAF58DF7E91AB6FF598A078C8FA88A1DB2D7B7E25439464/scale?width=1440&aspectRatio=1.78",
-            "type": "recommend"
+        "14": {
+            "backgroundImg": "https://lovetravelbeauty.com/wp-content/uploads/2023/12/pp_frozen_herobanner_mobile_20501_ae840c59.jpeg",
+            "cardImg": "https://lovetravelbeauty.com/wp-content/uploads/2023/12/pp_frozen_herobanner_mobile_20501_ae840c59.jpeg",
+            "description": "Anna, now queen of Arendelle, and Elsa, protector of the Enchanted Forest, face a new adventure as a mysterious threat challenges their kingdom and magical bonds.",
+            "subTitle": "2025 • 1h 50m • Family, Fantasy, Animation",
+            "title": "Frozen 3",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_frozen3_196_9f7c8d9d.jpeg?width=1440",
+            "type": "disneyplus",
+            "googleLink": "https://www.google.com/search?q=Frozen+3+movie"
         },
-        "14" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6FF2B403436E6558C08FB44B40AE334A9172FA293A8325940E8E7FF7F696E4D3/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/509E4D9F0BF98A9DC4CDD38954380782F6AB2664E503CC7652A37D18D06666BF/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "Mickey entertains preschoolers by inviting them to join him and his friends for a date at the Clubhouse. Using early math learning and problem solving skills, he leads kids on an interactive adventure of learning and fun.",
-            "subTitle": "2006 - 2013 • 5 Seasons • Kids, Animation",
-            "title": "Mickey mouse",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FF3FCD567F0263430DFC33B9489CE2799AE33B50AD553DE65F03B3EA2E19828/scale?width=1440&aspectRatio=1.78",
-            "type": "trending"
+        "15": {
+            "backgroundImg": "https://whatsondisneyplus.com/wp-content/uploads/2020/11/Toy-Story-Featured.png",
+            "cardImg": "https://whatsondisneyplus.com/wp-content/uploads/2020/11/Toy-Story-Featured.png",
+            "description": "Woody, Buzz, and the gang confront a new challenge as toys face off against modern technology, sparking an adventure to rediscover their purpose and connection with kids.",
+            "subTitle": "2025 • 1h 40m • Family, Adventure, Animation",
+            "title": "Toy Story 5",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_toystory5_196_8d7f9c8e.jpeg?width=1440",
+            "type": "disneyplus",
+            "googleLink": "https://www.google.com/search?q=Toy+Story+5+movie"
         },
-        "15" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/456A711C19899C881600F6247705E5253EB18C2471D75E5281E1FF6ACB6D2FBA/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/341AE85B6C1423B9042B5F2E786645EE551B9D546C3D263B220A4727617FD2B8/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
-            "description": "Marvel Studios’ “The Falcon and The Winter Soldier” stars Anthony Mackie as Sam Wilson aka The Falcon, and Sebastian Stan as Bucky Barnes aka The Winter Soldier. The pair, who came together in the final moments of “Avengers: Endgame,” team up on a global adventure that tests their abilities—and their patience.",
-            "subTitle": "2021 • 1 Season • Science Fiction, Action-Adventure, Buddy",
-            "title": "The falcon and the winter soldier",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4A67A42FB16607DAE7E22266D3F00181965178ED1884047C2D982EE7D89D3554/scale?width=1440&aspectRatio=1.78",
-            "type": "new"
-        },
-        "16" :{
-            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/28F85D4A1F7CA135B7B20B3EDB42EDA73196C2A71C52C5400A6C2285F8E071BE/scale?width=1440&aspectRatio=1.78&format=jpeg",
-            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4B32D8CB7C0C358E9FF348FB0338AD13F9A5836808E9EF5FADD9DBDE52FC3CAD/scale?width=400&aspectRatio=1.78&format=jpeg",
-            "description": "J-Pop band Perfume is featured in this original music and documentary series 'Disney’s My Music Story.' The show features Perfume's life stories, passion for music, Disney memories, and more.",
-            "subTitle": "2019 • 53m • Documentary, Biographical, Music",
-            "title": "My music story",
-            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/97BB36F8B9FC053F561894DD7B1C42C4FD20E63560F481CBCB3B9D3600CFCA3B/scale?width=1440&aspectRatio=1.78",
-            "type": "new"
+        "16": {
+            "backgroundImg": "https://www.cartonionline.com/gif/CARTOON/disney/Lilo_e_Stitch/Lilo_e_Stitch.jpg",
+            "cardImg": "https://www.cartonionline.com/gif/CARTOON/disney/Lilo_e_Stitch/Lilo_e_Stitch.jpg",
+            "description": "Lilo and Stitch navigate family life in Hawaii, but when a new experiment crashes their world, they team up to protect their ‘ohana from cosmic chaos.",
+            "subTitle": "2025 • 1h 35m • Family, Comedy, Animation",
+            "title": "Lilo & Stitch",
+            "titleImg": "https://lumiere-a.akamaihd.net/v1/images/p_liloandstitch_196_6e5a9d7b.jpeg?width=1440",
+            "type": "disneyplus",
+            "googleLink": "https://www.google.com/search?q=Lilo+and+Stitch+2025+movie"
+        }
         }
     }
 }

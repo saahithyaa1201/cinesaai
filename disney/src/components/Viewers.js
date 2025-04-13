@@ -5,35 +5,32 @@ const Viewers = (props) => {
     <Container>
       <Wrap>
         <img src="/images/see.png" alt="" />
-        <video autoPlay={true} loop={true} playsInline={true}>
-          <source src="/11.mp4" type="video/mp4" />
+        <video autoPlay={true} loop={true} playsInline={true} muted={true}>
+          <source src="/videos/11.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
         <img src="/images/see2.png" alt="" />
-        <video autoPlay={true} loop={true} playsInline={true}>
+        <video autoPlay={true} loop={true} playsInline={true} muted={true}>
           <source src="/videos/11.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
         <img src="/images/see3.png" alt="" />
-        <video autoPlay={true} loop={true} playsInline={true}>
+        <video autoPlay={true} loop={true} playsInline={true} muted={true}>
           <source src="/videos/22.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
         <img src="/images/see4.png" alt="" />
-        <video autoPlay={true} loop={true} playsInline={true}>
+        <video autoPlay={true} loop={true} playsInline={true} muted={true}>
           <source src="/videos/33.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
-        <img src="/images/see4.png" alt="" />
-        <video autoPlay={true} loop={true} playsInline={true}>
-          <source
-            src="/videos/44.mp4"
-            type="video/mp4"
-          />
+        <img src="/images/see5.png" alt="" />
+        <video autoPlay={true} loop={true} playsInline={true} muted={true}>
+          <source src="/videos/44.mp4" type="video/mp4" />
         </video>
       </Wrap>
     </Container>

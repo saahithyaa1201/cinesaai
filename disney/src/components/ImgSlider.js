@@ -11,6 +11,8 @@ const ImgSlider = (props) => {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
+    appendDots: dots => <ul>{dots}</ul>,
+    customPaging: i => <button></button>
   };
   return (
     <SliderWrapper>
@@ -43,6 +45,14 @@ const ImgSlider = (props) => {
           <a>
             <MediaContainer>
               <video src="/videos/slider4.mp4" autoPlay playsInline loop muted />
+            </MediaContainer>
+          </a>
+        </Wrap>
+        
+        <Wrap>
+          <a>
+            <MediaContainer>
+              <video src="/videos/slider5.mp4" autoPlay playsInline loop muted />
             </MediaContainer>
           </a>
         </Wrap>
